@@ -1,3 +1,3 @@
 function aaa(){
-    alert('6');
+    alert('6666');
 }
